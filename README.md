@@ -1,9 +1,8 @@
 # Hi There 👋
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=l3n40w0&show_icons=true&theme=radical">
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l3n40w0&layout=compact">
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=fziyen&show_icons=true&theme=radical">
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fziyen&layout=compact">
 <!-- - 👋 Hi
 - 👀 I’m interested in Computer science
-- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me : --
 -->
