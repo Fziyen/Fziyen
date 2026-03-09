@@ -1,5 +1,5 @@
 # Hi There 👋
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=fziyen&show_icons=true&theme=radical">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fziyen&hide=contribs,prs)
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fziyen&layout=compact">
 <!-- - 👋 Hi
 - 👀 I’m interested in Computer science
