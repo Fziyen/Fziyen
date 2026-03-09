@@ -1,5 +1,5 @@
 # Hi There 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fziyen&hide=contribs,prs)
+![Lena's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fziyen&hide=contribs,prs)
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fziyen&layout=compact">
 <!-- - 👋 Hi
 - 👀 I’m interested in Computer science
